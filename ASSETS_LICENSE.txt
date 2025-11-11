@@ -1,0 +1,18 @@
+Assets License for Cianeto Produções
+
+Copyright (c) 2025 Cianeto Produções
+
+Todos os assets visuais, sonoros e artísticos deste projeto
+(incluindo imagens, modelos 3D, sprites, texturas, músicas, sons,
+animações, fontes não open source e arquivos de cena)
+são protegidos por direitos autorais.
+
+Esses assets NÃO estão cobertos pela licença MIT que se aplica ao código.
+
+É proibido copiar, redistribuir, modificar, extrair ou reutilizar
+qualquer asset deste projeto em outros jogos, projetos, produtos
+comerciais ou não comerciais, sem permissão explícita e por escrito
+de Cianeto Produções.
+
+O uso é permitido apenas dentro da versão oficial do jogo distribuída
+por Cianeto Produções.
