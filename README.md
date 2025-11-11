@@ -14,15 +14,14 @@ Este repositório contém o **código-fonte** do jogo e sua documentação de de
 
 1.  [🌍 Apresentação](#-1-apresentação)
 2.  [🍃 Objetivos Educacionais](#-2-objetivos-educacionais)
-3.  [🎮 Recursos do Jogo](#-3-recursos-do-jogo)
-4.  [📜 Licenças](#-4-licenças)
+3.  [📜 Licenças](#-3-licenças)
     * [✅ MIT (Código)](#-mit-license-código)
     * [🔒 Proprietária (Assets)](#-licença-proprietária-assets)
-5.  [📁 Estrutura do Projeto](#-5-estrutura-recomendada-do-projeto)
-6.  [▶️ Como Executar](#-6-como-executar-o-projeto)
-7.  [🤝 Como Contribuir](#-7-como-contribuir)
-8.  [📬 Contato](#-8-contato)
-9.  [⭐ Créditos](#-9-créditos)
+4.  [📁 Estrutura do Projeto](#-5-estrutura-recomendada-do-projeto)
+5.  [▶️ Como Executar](#-5-como-executar-o-projeto)
+6.  [🤝 Como Contribuir](#-6-como-contribuir)
+7.  [📬 Contato](#-7-contato)
+8.  [⭐ Créditos](#-8-créditos)
 
 ---
 
@@ -110,7 +109,7 @@ Isso inclui:
 
 > **Importante:** Contribuições devem envolver **somente código**, nunca assets proprietários.
 
-## 📬 8. Contato
+## 📬 7. Contato
 
 Para permissões, dúvidas sobre o uso de assets ou informações sobre o projeto:
 
@@ -118,7 +117,7 @@ Para permissões, dúvidas sobre o uso de assets ou informações sobre o projet
 
 * Email: cianetoproducoes@gmail.com
 
-## ⭐ 9. Créditos
+## ⭐ 8. Créditos
 
 | Papel | Entidade |
 | :--- | :--- |
