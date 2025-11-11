@@ -92,7 +92,7 @@ Isso inclui:
 1.  Instale o **Unity** (adicione aqui a versão recomendada).
 2.  Clone o repositório:
     ```bash
-    git clone [https://github.com/sua-org/sua-repo.git](https://github.com/sua-org/sua-repo.git)
+    git clone https://github.com/felipesilva017/Eco-Earth.git
     ```
 3.  Abra o Unity Hub e carregue a pasta do projeto.
 4.  Abra a cena principal localizada em `/Assets/Scenes`.
