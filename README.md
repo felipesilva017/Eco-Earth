@@ -17,7 +17,7 @@ Este repositório contém o **código-fonte** do jogo e sua documentação de de
 3.  [📜 Licenças](#-3-licenças)
     * [✅ MIT (Código)](#-mit-license-código)
     * [🔒 Proprietária (Assets)](#-licença-proprietária-assets)
-4.  [📁 Estrutura do Projeto](#-5-estrutura-recomendada-do-projeto)
+4.  [📁 Estrutura do Projeto](#-4-estrutura-recomendada-do-projeto)
 5.  [▶️ Como Executar](#-5-como-executar-o-projeto)
 6.  [🤝 Como Contribuir](#-6-como-contribuir)
 7.  [📬 Contato](#-7-contato)
