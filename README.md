@@ -17,11 +17,10 @@ Este repositório contém o **código-fonte** do jogo e sua documentação de de
 3.  [📜 Licenças](#-3-licenças)
     * [✅ MIT (Código)](#-mit-license-código)
     * [🔒 Proprietária (Assets)](#-licença-proprietária-assets)
-4.  [📁 Estrutura do Projeto](#-4-estrutura-recomendada-do-projeto)
+4.  [📁 Estrutura do Projeto](#-4-estrutura-do-projeto)
 5.  [▶️ Como Executar](#-5-como-executar-o-projeto)
-6.  [🤝 Como Contribuir](#-6-como-contribuir)
-7.  [📬 Contato](#-7-contato)
-8.  [⭐ Créditos](#-8-créditos)
+6.  [📬 Contato](#-6-contato)
+7.  [⭐ Créditos](#-7-créditos)
 
 ---
 
@@ -50,7 +49,7 @@ A proposta é transformar conceitos acadêmicos em experiências jogáveis para 
 
 ### ✅ MIT License (Código)
 
-Todo código dentro da pasta `/Assets/Scripts` está licenciado sob **MIT**.
+Todo código dentro da pasta `/eco_earth` está licenciado sob **MIT**.
 
 Você pode usar, modificar e distribuir o código livremente, inclusive para fins comerciais, mantendo o aviso de copyright.
 
@@ -76,27 +75,25 @@ Isso inclui:
 
 ## 📁 4. Estrutura do Projeto
 
-/Assets
-/Scripts ← Código MIT
-/Art ← Assets protegidos
-/Audio ← Assets protegidos
-/Animations ← Assets protegidos
-/Scenes ← Assets protegidos
+No nível raiz deste repositório encontram-se os arquivos e pastas principais do projeto:
 
-/LICENSE ← Licença MIT
-/ASSETS_LICENSE.txt ← Licença dos assets
-/README.md
+- `ASSETS_LICENSE.txt` — Licença e termos dos assets proprietários
+- `LICENSE` — Licença do código (MIT)
+- `README.md` — Documentação do projeto
+- `eco_earth/` — Build, executáveis e recursos do jogo (conteúdo não listado aqui)
 
 ## ▶️ 5. Como Executar o Projeto
 
-1.  Instale o **Unity** (adicione aqui a versão recomendada).
-2.  Clone o repositório:
-    ```bash
-    git clone https://github.com/felipesilva017/Eco-Earth.git
+Para executar o jogo a partir deste repositório:
+
+- Executável (Windows): abra a pasta `eco_earth` e execute o arquivo `Earth Core.exe` (duplo-clique ou via terminal).
+
+    Exemplo no Prompt do Windows:
+
+    ```powershell
+    cd "eco_earth"
+    .\"Earth Core.exe"
     ```
-3.  Abra o Unity Hub e carregue a pasta do projeto.
-4.  Abra a cena principal localizada em `/Assets/Scenes`.
-5.  Pressione **Play** para iniciar.
 
 ## 🤝 6. Como Contribuir
 
